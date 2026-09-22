@@ -16,7 +16,7 @@ Este proyecto es una *aplicación web* diseñada para practicar la documentació
 - [Uso](#uso)
 - [Tecnologías](#tecnologías)
 - [Capturas](#capturas)
-- [Autor](#autor)
+- [Contribuidores](#Contribuidores)
 
 ## Instalación
 
@@ -53,11 +53,6 @@ flowchart LR
 
 ``` 
 
-## Recursos
-
-Puedes revisar la [guía oficial de Markdown](https://www.markdownguide.org/ ).
-
-![Logo del proyecto](assets/logo.png)
 
 ## Uso
 
